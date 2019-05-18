@@ -1,0 +1,30 @@
+body {
+    color: #8a2be2;
+    background-color: rgb(201, 248, 243);
+    margin: 0%;
+}
+.subtext {
+     color:royalblue;
+     background-color: whitesmoke;
+     font-family:'Major Mono Display', monospace;
+}
+p {
+    font-family: "Times New Roman", Times, serif;
+  }
+h1 { 
+    font-family: Rockwell, "Courier Bold", Courier, Georgia, Times, "Times New Roman", serif; 
+    font-size: 24px; 
+    font-style: normal; 
+    font-variant: normal; 
+    font-weight: 700; 
+    line-height: 26.4px; 
+} 
+h3 { font-family: Rockwell, "Courier Bold", Courier, Georgia, Times, "Times New Roman", serif;}
+
+#mainthing{
+    height: 100vh;
+    text-align: center;
+    padding-top: 16.5%;
+
+}
+
